@@ -1,7 +1,7 @@
 const firebase = require('firebase/compat/app');
 require('firebase/compat/auth');
 const firebaseConfig = {
-  apiKey: "AIzaSyA8PJjSqa4lXYrTTc8VLDT-jeDWMD0ppVI",
+  apiKey: "]",
   authDomain: "carbon-b73c7.firebaseapp.com",
   projectId: "carbon-b73c7",
   storageBucket: "carbon-b73c7.appspot.com",
